@@ -4,6 +4,7 @@
 	"description":"Backend Development and API (FreeCodeCamp)",
 	"keywords":["Backend","API","freecodecamp"],
 	"license":"BSD 3-Clause License",
+	"version":"1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
