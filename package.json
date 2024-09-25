@@ -1,11 +1,16 @@
 {
-	"author":"Mohammed",
+	"author": "Mohammed",
 	"name": "fcc-learn-npm-package-json",
-	"description":"Backend Development and API (FreeCodeCamp)",
-	"keywords":["Backend","API","freecodecamp"],
-	"license":"BSD 3-Clause License",
-	"version":"1.2.0",
+	"description": "Backend Development and API (FreeCodeCamp)",
+	"keywords": [
+		"Backend",
+		"API",
+		"freecodecamp"
+	],
+	"license": "BSD 3-Clause License",
+	"version": "1.2.0",
 	"dependencies": {
+		"@freecodecamp/example": "1.1.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
