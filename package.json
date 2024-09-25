@@ -3,6 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description":"Backend Development and API (FreeCodeCamp)",
 	"keywords":["Backend","API","freecodecamp"],
+	"license":"BSD 3-Clause License",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
